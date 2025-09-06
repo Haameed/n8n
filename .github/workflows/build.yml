@@ -5,7 +5,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: mroplus/n8n
+  IMAGE_NAME: haameed/n8n
   IMAGE_TAG: enterprise
 
 jobs:
