@@ -1,5 +1,4 @@
 name: Build and Push n8n Enterprise Docker Image
-
 on:
   workflow_dispatch:
 
